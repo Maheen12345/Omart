@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+   <head>  
+    <title> Kitchen Products;Omart
+    </title> 
+    <style>
+      body{
+        background-color:white;
+        color:black;
+      }
+      </style>
+      </head>
+<body>
+    <h1 style="text-align:center;">    Kitchen Products    </h1>
+
+<div id="crow">
+
+</div>
+<div id="rap">
+  
+  <div class="fan">
+  <img src="https://www.target.com.au/medias/static_content/product/images/large/31/54/A1013154.jpg?impolicy=product_portrait_card" height="100" width="100">
+  <h3>  Casserole </h3>  
+  <h3> $30 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+  </div>
+  
+  <div class="fan">
+  <img src="https://www.target.com.au/medias/static_content/product/images/full/98/38/A1499838.jpg?impolicy=product_portrait_hero" height="100" width="100">
+  <h3> Forged Super Tough Saucepan </h3>  
+  <h3> $18.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+  </div>
+  
+  <div class="fan">
+  <img src="https://www.target.com.au/medias/static_content/product/images/full/72/95/A1107295.jpg?impolicy=product_portrait_hero" height="100" width="100">
+  <h3> Sunbeam Banquet Frypan </h3>  
+  <h3> $69.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+  </div>
+  
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/3dd36955-e833-49de-b036-c87e300ae3fb.jpg?tx=w_600,h_600" height="100" width="100">
+<h3> 5.8 Litre Pressure Cooker </h3>  
+  <h3> $62.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://thegoodguys.sirv.com/products/50081647/50081647_820817.PNG?scale.height=392&scale.width=493&canvas.height=392&canvas.width=493&format=webp&webp.fallback=jpg" height="100" width="100">
+  <h3> Conventional Microwave </h3>  
+  <h3> $329.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://www.target.com.au/medias/static_content/product/images/full/22/66/A1782266.jpg?impolicy=product_portrait_hero" height="100" width="100">
+  <h3> Cotton Candy Fairy Floss Maker </h3>  
+  <h3> $34 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://azcd.harveynorman.com.au/media/catalog/product/cache/21/image/992x558/9df78eab33525d08d6e5fb8d27136e95/b/t/bta430pss_1.jpeg" height="100" width="100">
+  <h3> Toaster </h3>  
+  <h3> $99 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://thegoodguys.sirv.com/products/50079715/50079715_816182.PNG?scale.height=505&scale.width=773&canvas.height=505&canvas.width=773&canvas.opacity=0&q=90" height="100" width="100">
+  <h3> Multifunction Oven Stainless Steel </h3>  
+  <h3> $849.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/eecab32b-0a9b-4482-9eff-c9d2258cd82c.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> Cafe 24 Piece Dinner Set - Plates, Bowls and Cups </h3>  
+  <h3> $37.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/84c5a749-63cf-4d4f-9843-8bba6e44defd.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> Black 30 Piece Cutlery Set with Caddy </h3>  
+  <h3> $11.00</h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/e84f4c8f-15e6-450a-bce2-2e3e48224fa9.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> 2 Layer Non-Stick Coating Muffin Pan </h3>  
+  <h3> $5.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/b766a3a0-e520-4d66-800a-2ce678a35ef3.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> Black Kitchen Utensil Set - Set of 5 </h3>  
+  <h3> $5.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+#crow{
+    background-image: url(https://m.media-amazon.com/images/I/513vOaGoy0L.jpg);
+    height:800px;
+    width: 100%;
+    animation-name: yup;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+}
+@keyframes yup{
+    0%{background-image: url(https://m.media-amazon.com/images/I/513vOaGoy0L.jpg); background-size: cover;}
+    20%{background-image: url(https://www.ikea.com/us/en/images/products/ikea-365-pot-with-lid-stainless-steel__1006171_pe825756_s5.jpg?f=xs); background-size: cover;}
+    40%{background-image: url(https://thegoodguys.sirv.com/products/50074507/50074507_758174.PNG?scale.height=505&scale.width=773&canvas.height=505&canvas.width=773&canvas.opacity=0&q=90); background-size: cover;}
+    60%{background-image: url(http://sc04.alicdn.com/kf/Hf395a0fb559449eaafd6c7973311bfc2E.jpg); background-size: cover;}
+    80%{background-image: url(https://cdn0.woolworths.media/content/wowproductimages/large/1073750581.jpg); background-size: cover;}
+    100%{background-image: url(https://www.wildearth.com.au/assets/full/LMF41243600.jpg?20210318032913); background-size: cover;}
+}
+
+
+
+#rap{
+    height: 800px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 70px;
+    grid-column-gap: 70px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

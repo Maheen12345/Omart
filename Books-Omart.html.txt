@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+   <head>  
+    <title> Books;Omart
+    </title> 
+    <style>
+      body{
+        background-color:white;
+        color:black;
+      }
+#crow{
+    background-image: url(https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647290984l/60618843._SX318_.jpg);
+    height:800px;
+    width: 100%;
+    animation-name: yup;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+}
+@keyframes yup{
+    0%{background-image: url(https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647290984l/60618843._SX318_.jpg); background-size: cover;}
+    20%{background-image: url(https://upload.wikimedia.org/wikipedia/en/0/03/Wonder_Cover_Art.png); background-size: cover;}
+    40%{background-image: url(https://upload.wikimedia.org/wikipedia/en/b/b5/HungryCaterpillar.JPG); background-size: cover;}
+    60%{background-image: url(https://www.bigw.com.au/medias/sys_master/images/images/hbb/hd9/14246982320158.jpg); background-size: cover;}
+    80%{background-image: url(https://www.costco.com.au/medias/sys_master/images/h55/h35/28873142272030.jpg); background-size: cover;}
+    100%{background-image: url(https://i.ebayimg.com/images/g/ZJAAAOSwtdhfBmC~/s-l500.jpg); background-size: cover;}
+}
+
+
+#rap{
+    height: 800px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 70px;
+    grid-column-gap: 70px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+      </style>
+      </head>
+<body>
+    <h1 style="text-align:center;"> Books </h1>
+
+<div id="crow">
+
+</div>
+<div id="rap">
+  
+  <div class="fan">
+  <img src="https://m.media-amazon.com/images/M/MV5BYjQwMjRmNDItM2Q2Ni00MTE5LWI0MjItMmE2MDRmNDNkYjRlXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_.jpg" height="100" width="100">
+  <h3> The Wonderful Wizard of Oz </h3>  
+  <h3> $20.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+  </div>
+  
+  <div class="fan">
+  <img src="https://i0.wp.com/books.disney.com/content/uploads/2019/07/1368018610.jpg?fit=2452%2C3300&ssl=1" height="100" width="100">
+  <h3> Winnie the Pooh </h3>  
+  <h3> $20.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+  </div>
+  
+  <div class="fan">
+  <img src="https://auspost.com.au/shop/static/WFS/AusPost-Shop-Site/-/AusPost-Shop/en_AU/product/12878-AusPost/1/resized_1500x1500.jpg" height="100" width="100">
+  <h3> The Tale Of Peter Rabbit </h3>  
+  <h3> $20.50 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+  </div>
+  
+  <div class="fan">
+  <img src="https://www.bigw.com.au/medias/sys_master/images/images/h28/he1/10821175640094.jpg" height="100" width="100">
+<h3> Charlie and the Chocolate Factory </h3>  
+  <h3> $30.50</h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://www.target.com.au/medias/static_content/product/images/full/31/88/A723188.jpg?impolicy=product_portrait_hero" height="100" width="100">
+  <h3> Harry Potter and the Philosopher's Stone  </h3>  
+  <h3> $32.35 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524709161l/39948633._SY475_.jpg" height="100" width="100">
+  <h3> Where The Crawdads Sing </h3>  
+  <h3> $36.50 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/50ShadesofGreyCoverArt.jpg/220px-50ShadesofGreyCoverArt.jpg" height="100" width="100">
+  <h3> Fifty Shades of Grey </h3>  
+  <h3> $39.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://images.squarespace-cdn.com/content/v1/605b7322b806fb292a9defce/1617816625655-PUCD8T87L4YO2KZGMQPU/all-the-light-we-cannot-see_Anthony_Doerr.jpg" height="100" width="100">
+  <h3> All the Light We Cannot See </h3>  
+  <h3> $37.60 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kbimages1-a.akamaihd.net/f7c39f83-b19a-4566-88cb-c13236e6178e/1200/1200/False/little-women-159.jpg" height="100" width="100">
+  <h3> Little Women </h3>  
+  <h3> $30.99 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598993363l/21853621._SY475_.jpg" height="100" width="100">
+  <h3> The Nightingale: A Novel </h3>  
+  <h3> $33.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://www.booktopia.com.au/covers/600/9781646111497/7903/the-fascinating-animal-book-for-kids.jpg" height="100" width="100">
+  <h3> The Fascinating Animal Book For Kids - 500 Wild Facts!  </h3>  
+  <h3> $23.50 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/917oCl7xqjL.jpg" height="100" width="100">
+  <h3> The Space Encyclopedia </h3>  
+  <h3> $35.99 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://m.media-amazon.com/images/I/51SR8t2QZHL._AC_SY1000_.jpg" height="100" width="100">
+  <h3> The Huge Book Of Amazing Facts </h3>  
+  <h3> $36.99  </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+#crow{
+    background-image: url(https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647290984l/60618843._SX318_.jpg);
+    height:800px;
+    width: 100%;
+    animation-name: yup;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+}
+@keyframes yup{
+    0%{background-image: url(https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647290984l/60618843._SX318_.jpg); background-size: cover;}
+    20%{background-image: url(https://upload.wikimedia.org/wikipedia/en/0/03/Wonder_Cover_Art.png); background-size: cover;}
+    40%{background-image: url(https://upload.wikimedia.org/wikipedia/en/b/b5/HungryCaterpillar.JPG); background-size: cover;}
+    60%{background-image: url(https://www.bigw.com.au/medias/sys_master/images/images/hbb/hd9/14246982320158.jpg); background-size: cover;}
+    80%{background-image: url(https://www.costco.com.au/medias/sys_master/images/h55/h35/28873142272030.jpg); background-size: cover;}
+    100%{background-image: url(https://i.ebayimg.com/images/g/ZJAAAOSwtdhfBmC~/s-l500.jpg); background-size: cover;}
+}
+
+
+#rap{
+    height: 800px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 70px;
+    grid-column-gap: 70px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

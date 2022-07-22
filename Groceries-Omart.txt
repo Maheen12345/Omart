@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+     <title>   Groceries-Omart   </title>
+     <style>
+       body{
+          background-color:white;
+        color:black;
+       }
+    </style>
+    </head>
+    <body>
+
+  <h1  style="text-align:center;">  Groceries </h1>
+
+
+
+  <div id="call">
+
+  </div>
+  <br>
+  <br>
+
+  <h2 style="text-align:center;">  More Groceries Waiting For You </h2>
+
+
+<div id="rap">
+  
+  <div class="fan">
+  <img src="https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/02/watermelon_keto_GettyImages1093715728_Thumb.jpg" height="100" width="100">
+  <h3> Watermelon </h3>  
+  <h3> $6 per watermelon </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+  </div>
+
+  <div class="fan">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHY2OWUq3vR45jdza-qg_0WBgiw_B15BaSF7pByMeVcj6qHcioAJIeAzRNkpbh4-GYqvg&usqp=CAU" height="100" width="100">
+  <h3> Orange </h3>  
+  <h3> $2 per orange </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+  </div>
+
+  <div class="fan">
+  <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cucumber-slice-royalty-free-image-153556336-1562870568.jpg" height="100" width="100">
+  <h3> Cucumber </h3>  
+  <h3> $2 per cucumber </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+  </div>
+
+  <div class="fan">
+  <img src="https://m.economictimes.com/thumb/msid-87512016,width-1200,height-900,resizemode-4,imgsize-82074/onion.jpg" height="100" width="100">
+<h3> Onion </h3>  
+  <h3> $2 per onion </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn0.woolworths.media/content/wowproductimages/large/088436.jpg" height="100" width="100">
+  <h3> Milk </h3>  
+  <h3> $2 per litre </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn0.woolworths.media/content/wowproductimages/large/769558.jpg" height="100" width="100">
+  <h3> Bega Cheese </h3>  
+  <h3> $6 per box </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://bjs.scene7.com/is/image/bjs/235512?$bjs-Zoom$" height="100" width="100">
+  <h3> Naked Shrimp </h3>  
+  <h3> $5 per package </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://www.tassal.com.au/wp-content/uploads/2021/08/1.jpg" height="100" width="100">
+  <h3> Fresh Tassie Salmon </h3>  
+  <h3> $5 per package </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://www.beefcentral.com/wp-content/uploads/2016/10/Woolworths-MSA-beef.jpg" height="100" width="100">
+  <h3> MSA Australian Beef </h3>  
+  <h3> $5 per package </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://uspackagingandwrapping.com/uploads/image/Packaged%20Chicken%20Thighs.jpg" height="100" width="100">
+  <h3> Chicken Thighs </h3>  
+  <h3> $5 per package </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="http://3.bp.blogspot.com/-TPKMROUEtag/VhVSNxWq_jI/AAAAAAAC7Qw/R6Ase3bgtKc/s1600/Pure-Organic-Foods-Grains%2B%25281%2529.jpg" height="100" width="100">
+  <h3> Pure Organic Foods - Grains </h3>  
+  <h3> $4 per package </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://www.ipackdesign.com/wp-content/uploads/2020/11/creative-almond-standup-pouch-packaging-3.jpg" height="100" width="100">
+  <h3> Nuts Garden - Almonds </h3>  
+  <h3> $4 per package </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://m.media-amazon.com/images/I/81nM3GJpj7L.jpg" height="100" width="100">
+  <h3> Lays Chips - Classic </h3>  
+  <h3> $3 per packet </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://www.bigw.com.au/medias/sys_master/images/images/h9f/hec/16447519326238.jpg" height="100" width="100">
+  <h3> Cadbury Dairy Milk - Snack </h3>  
+  <h3> $3 per chocolate </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/1/4616484.jpg" height="100" width="100">
+  <h3> Canola Oil </h3>  
+  <h3> $4.50 per litre </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://images.heb.com/is/image/HEBGrocery/000514411" height="100" width="100">
+  <h3> Sunkist </h3>  
+  <h3> $2 per bottle </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://packagingprinting.co.uk/img/pro/donut-box-01.jpg" height="100" width="100">
+  <h3> Off Beat Donuts </h3>  
+  <h3> $4 per box </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://mouthsofmums.com.au/wp-content/uploads/2016/05/793921.jpg" height="100" width="100">
+  <h3> The Little Brownie Company - Triple Choc Fudge Brownies </h3>  
+  <h3> $4 per pack </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  
+  <div class="fan">
+  <img src="https://theaustralianfoodshop.com/wp-content/uploads/2020/07/sanitarium-weet-bix-575g.jpg" height="100" width="100">
+  <h3> Weet-Bix - Cereal </h3>  
+  <h3> $5 per pack </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="http://images.kglobalservices.com/www.kelloggs.com.au/en_au/product/product_10855005/prod_img-10855006_prod_img-10855006.png" height="100" width="100">
+  <h3> Coco Pops - Cereal </h3>  
+  <h3> $5 per pack </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+
+
+</div>
+
+
+
+
+
+
+</body>
+
+</html>
+#call{
+     background-image: url(https://s3.amazonaws.com/img.kh-labs.com/7iIVgS5c5ddb24aa6618.66663072);
+    height:800px;
+    width: 100%;
+    animation-name: mart;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes mart{
+    0%{background-image: url(https://s3.amazonaws.com/img.kh-labs.com/7iIVgS5c5ddb24aa6618.66663072); background-size: cover;}
+    10%{background-image: url(https://th.bing.com/th/id/R.2fab04f6cae7686cda4f6f230e9d89a1?rik=tuEo%2buSRym6%2bnQ&riu=http%3a%2f%2fwww.tibettravel.org%2fblog%2fwp-content%2fuploads%2f2014%2f04%2fFresh-Vegetables-Enrich-Tibetans-Baskets.jpg&ehk=7TfH%2bQuseQAqsepgMzA%2bZVS1EYQdhfUp2rpeziD65D4%3d&risl=&pid=ImgRaw&r=0); background-size: cover;}
+    20%{background-image: url(https://th.bing.com/th/id/R.034a18968fc38e90a1cf5f168f7bc11e?rik=j3Mf7hogAYizHw&riu=http%3a%2f%2ftheweeklychallenger.com%2fwp-content%2fuploads%2fbfi_thumb%2fhealthy-living-dairy-6p2mn6vamh0qo9nhpjfjjdr40jwsqrhtsvw6w5meves.png&ehk=SA%2buRhyvBZQhPBcQiSueJzcoUMc7brFlq9Oajj1vOt4%3d&risl=&pid=ImgRaw&r=0); background-size: cover;}
+    30%{background-image: url(https://www.montereybaysuites.com/wp-content/uploads/2019/05/GettyImages-855695494.jpg); background-size: cover;}
+    40%{background-image: url(https://th.bing.com/th/id/OIP.feNrdIYhileZORu50DAMlQHaEh?pid=ImgDet&rs=1); background-size: cover;}
+    50%{background-image: url(https://th.bing.com/th/id/OIP.xvxZpo6xc9nz5SM1O3zWNwHaE8?pid=ImgDet&w=626&h=418&rs=1); background-size: cover;}
+    60%{background-image: url(https://i5.walmartimages.com/asr/7cf354ef-6716-4fd4-8d2c-faac836ef5fd.3d9127c9be7255406cbd98653a129c13.jpeg); background-size: cover;}
+    70%{background-image: url(https://5.imimg.com/data5/YF/QX/MY-9047324/other-oils-and-liquid-500x500.png); background-size: cover;}
+    80%{background-image: url(https://www.justataste.com/wp-content/uploads/2020/05/strawberry-pretzel-dessert-cups-recipe.jpg); background-size: cover;}
+    90%{background-image: url(https://th.bing.com/th/id/R.54fc150b241c1b6b6b714556ca851f9b?rik=FYy3rHAyEEgl4Q&riu=http%3a%2f%2fjunkbanter.com%2fwp-content%2fuploads%2f2018%2f03%2fIMG_1746.jpg&ehk=QEBx8md31%2b4BUSy2rwmon%2fEjNSAoCh0rAB1oP7cynK8%3d&risl=&pid=ImgRaw&r=0); background-size: cover;}
+}
+
+
+#rap{
+    height: 800px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-row-gap: 70px;
+    grid-column-gap: 70px;
+}
+
+
+  button{
+      background-color: red;
+      color: white;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }

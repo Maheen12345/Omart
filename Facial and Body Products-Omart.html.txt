@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+   <head>  
+    <title> Facial and Body Products;Omart
+    </title> 
+    <style>
+      body{
+        background-color:white;
+        color:black;
+      }
+      </style>
+      </head>
+<body>
+<h1 style="text-align:center;"> Facial and Body Products </h1>
+<div id="crow">
+
+</div>
+<div id="rap">
+  
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/2613ab0e-a7f2-43e1-8fea-fb3740350f6c.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> Face Cream Bronzer </h3>  
+  <h3> $2.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+  </div>
+  
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/9e5a9441-6ea7-44d6-82b4-3e253ad65a64.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3>  Vitamin E Cream </h3>  
+  <h3> $4.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+  </div>
+
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/16cec86a-bf59-4eb3-a09c-cd8fb7dd4e83.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> Tinted Moisturiser BB Cream </h3>  
+  <h3> $1.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+  </div>
+
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/06c1f970-b976-4149-9374-12c81fea1020.jpg?tx=w_600,h_600" height="100" width="100">
+<h3> Flawless Finish Pressed Powder </h3>  
+  <h3> $1.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/44c35af3-8af2-4fdc-a417-6923eb889f8d.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> Brow Definition Kit with Powder & Wax Pow Brows  </h3>  
+  <h3> $5.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/872d33a5-18dc-44e3-9c51-350ff33e0da5.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> Maybelline Brow Satin Pencil & Powder Duo </h3>  
+  <h3> $10.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/ef9d434c-d5e2-4e9b-8eca-3e856e3f0c7f.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> Brow Powder Applicator Brush </h3>  
+  <h3> $2.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/ada26e2e-2576-4c66-9942-79107b59b74a.jpg?tx=c_fill,w_1200,h_1500" height="100" width="100">
+  <h3> Beauty Vault </h3>  
+  <h3> $20.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/4c41036d-6feb-41b3-9efe-3031b616d060.jpg?tx=c_fill,w_1200,h_1500" height="100" width="100">
+  <h3> Diamond Cosmetic Case </h3>  
+  <h3> $28.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/33463342-ede2-47e3-96d7-efb613d95419.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> 12 Pack Kids Nail Polish Collection </h3>  
+  <h3> $5.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/e0d8ebcc-1223-41e1-beab-9c99ead7031b.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> Rexona MotionSense Classic Antiperspirant </h3>  
+  <h3> $5.50 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/74b3bdb5-2693-4d33-81b7-eed8bc41b23a.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> Nivea Invisible Black and White Deodorant </h3>  
+  <h3> $5.50 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/3bdb9447-6f54-4c47-b611-8659f29e0d7a.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> Dove Invisible Dry Anti-White Marks Antiperspirant Aerosol Deodorant </h3>  
+  <h3> $6.50 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/57934d75-2613-409f-92fe-82f5ee1291d5.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3>Beard Trimmer  </h3>  
+  <h3> $21.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/09d7559f-0689-4567-8ded-f0ebbbeca599.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3> Personal Trimmer Set </h3>  
+  <h3> $27.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://kmartau.mo.cloudinary.net/5a67286d-97f5-41b3-afbe-94a7e65b4e6b.jpg?tx=w_600,h_600" height="100" width="100">
+  <h3>  Head Shaver  </h3>  
+  <h3> $39.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+#crow{
+    background-image: url(https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/15/151/1636/720/21/390581650/390581650_1_13_360x464.webp);
+    height:800px;
+    width: 100%;
+    animation-name: yup;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+}
+@keyframes yup{
+    0%{background-image: url(https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/15/151/1636/720/21/390581650/390581650_1_13_360x464.webp); background-size: cover;}
+    10%{background-image: url(https://images-us.nivea.com/-/media/media-center-items/8/a/a/365399-web_1010x1180_transparent_png.png); background-size: cover;}
+    20%{background-image: url(https://static.chemistwarehouse.com.au/ams/media/pi/52311/3DF_800.jpg); background-size: cover;}
+    30%{background-image: url(https://static.beautytocare.com/media/catalog/product/cache/global/image/650x650/85e4522595efc69f496374d01ef2bf13/s/k/skinerie-face-compact-powder-medium-10-5g.jpg); background-size: cover;}
+    40%{background-image: url(https://cdn.shopify.com/s/files/1/0490/9324/7140/products/Sport_250mL_1024px_1200x.jpg?v=1629854987); background-size: cover;}
+    50%{background-image: url(https://target.scene7.com/is/image/Target/GUEST_cdf2830d-eca1-4ef9-9b70-b5313e5ea967?wid=488&hei=488&fmt=pjpeg); background-size: cover;}
+}
+
+
+
+#rap{
+    height: 800px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 70px;
+    grid-column-gap: 70px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

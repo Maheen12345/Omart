@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Omart stores</title>
+    <style>
+      body{
+        background-color: white;
+        
+      }
+      
+
+
+      #center{
+          background-image: url(https://cdn-1.jjshouse.com/upimg/s600/58/57/2fb72fea0131bb74316eb62b5fa35857.jpg);
+          height:800px;
+          width: 100%;
+          animation-name: yup;
+          animation-duration: 40s;
+          animation-iteration-count: infinite;
+      }
+
+
+      @keyframes yup{
+          0%{background-image: url(https://cdn-1.jjshouse.com/upimg/s600/58/57/2fb72fea0131bb74316eb62b5fa35857.jpg); background-size: cover;}
+          10%{background-image: url(https://preflight-cdn.live.gelato.tech/product/preview?&type=scene&product_uid=apparel_product_gca_t-shirt_gsc_raglan-34sleeve-crew_gcu_unisex_gqa_prm_gsi_m_gco_white-and-red_gpr_4-4&scene=editor/front); background-size: cover;}
+          20%{background-image: url(https://i.ebayimg.com/images/g/vccAAOSwLV5iPV0l/s-l500.jpg); background-size: cover;}
+          30%{background-image: url(https://images.wisegeek.com/pink-gown.jpg); background-size: cover;}
+          40%{background-image: url(https://s3-eu-west-1.amazonaws.com/peteblandsports/i/pmi/m_arahi3_nbeb_1.jpg?_t=19725114353); background-size: cover;}
+          50%{background-image: url(https://bnsec.bluenile.com/bluenile/is/image/bluenile/-jewelry/bracelets/emerald-halo-diamond-tennis-bracelet-/78426_main?$phab_detailmain$); background-size: cover;}
+          60%{background-image: url(https://www.lafuma.com/media/catalog/product/cache/18/image/9df78eab33525d08d6e5fb8d27136e95/l/f/lfv11318-6730-access-cargo-pants-bleu_1.jpg); background-size: cover;}
+          70%{background-image: url(https://m.media-amazon.com/images/I/71prnQxjmYL._AC_SX679_.jpg); background-size: cover;}
+
+      }
+
+      #rap{
+          height: 1400px;
+          width: 100%;
+          display: grid;
+          grid-template-columns: auto auto auto auto;
+          grid-row-gap: 70px;
+          grid-column-gap: 70px;
+      }
+      .fan{
+        height: 200px;
+        width: 200px;
+      }
+      button{
+          background-color: red;
+          color: white;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+
+
+    </style>
+</head>
+<body>
+    <h1 style="text-align:center;">Clothes</h1>
+    
+      <div id="center">
+      </div>
+
+      
+      <div id="rap">
+        
+        <div class="fan">
+        <img src="https://www.ceriseshirts.com/products/5653-2.jpg" height="100" width="100">
+        <h3> Purple Shirt </h3>  
+        <h3> $40 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+      
+        </div>
+  
+        <div class="fan">
+        <img src="https://images-dynamic-arcteryx.imgix.net/F19/1350x1710/Sabre-LT-Pant-Flux.jpg?auto=format&w=1350" height="100" width="100">
+        <h3> Brown pant </h3>  
+        <h3> $35 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+        <div class="fan">
+        <img src="https://media.musely.com/u/028bfd5a-bf87-42aa-9676-8a68a93b4a1c.jpg" height="100" width="100">
+        <h3> Purple Long Dress </h3>  
+        <h3> $45 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+      
+        </div>
+      
+        <div class="fan">
+        <img src="https://m.media-amazon.com/images/I/71chSXTOGyL._AC_SX679_.jpg" height="100" width="100">
+      <h3> Pack of Hairbands </h3>  
+        <h3> $30 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+
+        <div class="fan">
+        <img src="https://www.hiddenspringsmaple.com/sites/hiddenspringsmaple.com/files/800X-MAIN-HSMLogoT-Men-Black-005_5.jpg" height="100" width="100">
+        <h3> Black Hidden Springs Maple T-shirt  </h3>  
+        <h3> $30 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+
+        <div class="fan">
+        <img src="https://i.pinimg.com/originals/c3/14/5a/c3145a9048912e4074213541e46666a4.png" height="100" width="100">
+        <h3> Long Black and White Flower Skirt </h3>  
+        <h3> $36.50 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+
+        <div class="fan">
+        <img src="https://i.pinimg.com/originals/0b/46/be/0b46bed1891e3a10d496148eb171211e.jpg" height="100" width="100">
+        <h3> Grey and Green Frock </h3>  
+        <h3> $39 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+        <div class="fan">
+        <img src="https://m.media-amazon.com/images/I/81EvfX+zswL._AC_SX679_.jpg" height="100" width="100">
+        <h3> Pack of Hair Scrunchies </h3>  
+        <h3> $38 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+
+        <div class="fan">
+        <img src="https://preview.free3d.com/img/2014/09/2174824249099814123/vclrgoyi-900.jpg" height="100" width="100">
+        <h3> White Women's Shirt </h3>  
+        <h3> $25.70 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+
+        <div class="fan">
+        <img src="https://cdn11.bigcommerce.com/s-kqnpymww7/product_images/uploaded_images/pride.jpg?t=1622012150" height="100" width="100">
+        <h3> Black and Rainbow Shoe </h3>  
+        <h3> $40 per pair </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+
+        <div class="fan">
+        <img src="https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/17f774fb-a2ba-46cb-b6bf-7a798594f5ee/everyday-cushioned-training-ankle-socks-jlm914.png" height="100" width="100">
+        <h3> White Comfy Nike Socks </h3>  
+        <h3> $33 per pair </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+
+        <div class="fan">
+        <img src="http://img.mytheresa.com/544/544/90/jpeg/catalog/product/7c/P00596072.jpg" height="100" width="100">
+        <h3> Adult Women's White and Black Stockings </h3>  
+        <h3> $35.99 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+
+        <div class="fan">
+        <img src="https://www.versace.com/on/demandware.static/-/Sites-ver-master-catalog/default/dw6f175a50/original/90_DST420Q-DVTA3_D41OH_20_GrecaLabyrinthPlatformBoots-BootsandBooties-versace-online-store_5_2.jpg" height="100" width="100">
+        <h3> Women's Black Stylish Heel Boots </h3>  
+        <h3> $30 per pair </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+
+        <div class="fan">
+        <img src="http://cdn.shopify.com/s/files/1/0572/4032/2216/products/Untitleddesign_ab977c49-6279-4fdd-a69f-c09a58aa31c3.png?v=1634240984" height="100" width="100">
+        <h3> Pack of Hair Rubberbands </h3>  
+        <h3> $20 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+
+        <div class="fan">
+        <img src="https://i.pinimg.com/236x/d9/c6/43/d9c6430088a87fdb1cbd478d948872d9.jpg" height="100" width="100">
+        <h3> Women's Light Pink Crop Top </h3>  
+        <h3> $25.50 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+
+        <div class="fan">
+        <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/underwear-for-running-lead-1611166890.jpg" height="100" width="100">
+        <h3> Pack of Underwear  </h3>  
+        <h3> $40 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+
+        <div class="fan">
+        <img src="https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/30/306/8223/601/2/666816580/666816580_1_720x928.webp" height="100" width="100">
+        <h3> Blue Champion Track Pant </h3>  
+        <h3> $29.99 </h3>
+        <button>     Buy    </button>
+        <button>   Add to Cart    </button>
+        </div>
+      </div>
+      
+      
+      </body>
+</body>
+</html>
+
+
+
+
+
+
+
+#center{
+    background-image: url(https://cdn-1.jjshouse.com/upimg/s600/58/57/2fb72fea0131bb74316eb62b5fa35857.jpg);
+    height:800px;
+    width: 100%;
+    animation-name: yup;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes yup{
+     0%{background-image: url(https://cdn-1.jjshouse.com/upimg/s600/58/57/2fb72fea0131bb74316eb62b5fa35857.jpg); background-size: cover;}
+    10%{background-image: url(https://preflight-cdn.live.gelato.tech/product/preview?&type=scene&product_uid=apparel_product_gca_t-shirt_gsc_raglan-34sleeve-crew_gcu_unisex_gqa_prm_gsi_m_gco_white-and-red_gpr_4-4&scene=editor/front); background-size: cover;}
+    20%{background-image: url(https://i.ebayimg.com/images/g/vccAAOSwLV5iPV0l/s-l500.jpg); background-size: cover;}
+    30%{background-image: url(https://images.wisegeek.com/pink-gown.jpg); background-size: cover;}
+    40%{background-image: url(https://s3-eu-west-1.amazonaws.com/peteblandsports/i/pmi/m_arahi3_nbeb_1.jpg?_t=19725114353); background-size: cover;}
+    50%{background-image: url(https://bnsec.bluenile.com/bluenile/is/image/bluenile/-jewelry/bracelets/emerald-halo-diamond-tennis-bracelet-/78426_main?$phab_detailmain$); background-size: cover;}
+    60%{background-image: url(https://www.lafuma.com/media/catalog/product/cache/18/image/9df78eab33525d08d6e5fb8d27136e95/l/f/lfv11318-6730-access-cargo-pants-bleu_1.jpg); background-size: cover;}
+    70%{background-image: url(https://m.media-amazon.com/images/I/71prnQxjmYL._AC_SX679_.jpg); background-size: cover;}
+
+}
+
+#rap{
+    height: 800px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 70px;
+    grid-column-gap: 70px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

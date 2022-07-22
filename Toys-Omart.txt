@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>   <title>  Toys-Omart </title>
+<style>    body{
+    background-color: white;
+    color: black;
+}   </style>      </head>
+<body>
+<h1 style="text-align:center;"> Toys-Omart </h1>
+<div id="crow">
+
+</div>
+<div id="rap">
+  
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/1280x1280/products/18897/108610/E9217SA00_PROD_NERF_ULTRA_FOUR_073__82704.1596600402.jpg?c=2" height="100" width="100">
+  <h3> Ultra Nerf Gun </h3>  
+  <h3> $15.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/1280x1280/products/15434/95847/GJN65_IP__19650.1580262913.jpg?c=2" height="100" width="100">
+  <h3> Jurassic World-Toy Dinosaur (Triceretops) </h3>  
+  <h3> $5.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/1280x1280/products/26523/136687/21001617_1__00730.1635993637.png?c=2" height="100" width="100">
+  <h3> Pets Alive-Full Toy Pack </h3>  
+  <h3> $25.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/1280x1280/products/26455/144456/21003049_4__85709.1643770522.jpg?c=2" height="100" width="100">
+<h3> Miraculous Figurine-Bunnyx </h3>  
+  <h3> $4.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/400x400/products/5131/90446/18001014_1__63394.1655861235.jpg?c=2" height="100" width="100">
+  <h3>  Baby Toy Walker  </h3>  
+  <h3> $35.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/1280x1280/products/19236/109444/7150_4__90660.1598933357.jpg?c=2" height="100" width="100">
+  <h3> Deluxe Toy Kitchen Set </h3>  
+  <h3> $99.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/1280x1280/products/19372/110003/27574AB82__1__29921.1600044999.jpg?c=2" height="100" width="100">
+  <h3> Big Green and Black Net Trampoline </h3>  
+  <h3> $65.99 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/1280x1280/products/17176/102781/BYDSPRINGCOTTAGE-SET_01__07731.1588288334.jpg?c=2" height="100" width="100">
+  <h3> Deluxe Toy House </h3>  
+  <h3> $105.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/400x400/products/18117/105401/X721__80791.1655855118.jpg?c=2" height="100" width="100">
+  <h3> 4 Wheeled Toy Drone </h3>  
+  <h3> $20.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/1280x1280/products/20765/114770/HE3023_Fire_Station_product__97548.1610320064.jpg?c=2" height="100" width="100">
+  <h3> Fire Station Toy Set </h3>  
+  <h3> $25.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/1280x1280/products/27156/145905/LEGO_City_Fire_Brigade_60321_11__03849.1644799970.jpg?c=2" height="100" width="100">
+  <h3> Firefighter Lego Set  </h3>  
+  <h3> $33.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/1280x1280/products/6199/70067/11d7b9a9cd6448b383932c0dd5966d191230a1d70550afbb02881d230ae5cf63__27738.1551286509.jpg?c=2" height="100" width="100">
+  <h3> Toy Blocks Bag </h3>  
+  <h3> $20.50 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/1280x1280/products/2397/90463/17020222_1__68054.1572152104.jpg?c=2" height="100" width="100">
+  <h3> Monopoly Set </h3>  
+  <h3> $20.45 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/1280x1280/products/14129/116993/MW2087-1__55072.1611794591.jpg?c=2" height="100" width="100">
+  <h3> Uno Pack </h3>  
+  <h3> $10.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://cdn11.bigcommerce.com/s-cf7jv97qb3/images/stencil/400x400/products/19393/109767/9781760899363__72180.1599178376.jpg?c=2" height="100" width="100">
+  <h3> Bluey Toy Pack </h3>  
+  <h3> $25.50 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+#crow{
+    background-image: url(https://www.lego.com/cdn/cs/set/assets/blte01dc98f7d24fa06/31112_alt1.jpg);
+    height:800px;
+    width: 100%;
+    animation-name: yup;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+}
+@keyframes yup{
+    0%{background-image: url(https://www.lego.com/cdn/cs/set/assets/blte01dc98f7d24fa06/31112_alt1.jpg); background-size: cover;}
+    20%{background-image: url(https://th.bing.com/th?id=OPA.jtdsqc9lc0rKsg474C474&w=300&h=300&o=5&dpr=1.25&pid=21.1); background-size: cover;}
+    40%{background-image: url(https://www.buildabear.com.au/media/catalog/product/cache/1884cc9a5a5b1905ff0514c511115fbf/2/5/25239_lil_brownie_cub.jpg); background-size: cover;}
+    60%{background-image: url(https://img.joomcdn.net/853caf584a15a50662f79f24384699acd7bd88cf_1024_1024.jpeg); background-size: cover;}
+    80%{background-image: url(https://m.media-amazon.com/images/I/81L77JUPG8L._AC_SL1500_.jpg); background-size: cover;}
+    100%{background-image: url(https://m.media-amazon.com/images/I/61VgydxQn2L._AC_SL1500_.jpg); background-size: cover;}
+}
+
+
+#rap{
+    height: 800px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 70px;
+    grid-column-gap: 70px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+   <head>  
+    <title> Chemist Products;Omart
+    </title> 
+    <style>
+      body{
+        background-color:white;
+        color:black;
+      }
+      </style>
+      </head>
+<body>
+
+<h1 style="text-align:center;">     Chemist Products      </h1>
+
+
+<div id="crow">
+
+</div>
+<div id="rap">
+  
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/93779/F2D_200.jpg" height="100" width="100">
+  <h3> Betavit 100mg Tablets 100 </h3>  
+  <h3> $7.69 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+  </div>
+ 
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/116124/2DF_200.jpg" height="100" width="100">
+  <h3> Fusion Kidney Tonic </h3>  
+  <h3> $65.49 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+  </div>
+  
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/102021/2DF_200.jpg" height="100" width="100">
+  <h3> Bioglan Iron & B Vitamins Liquid Tonic 250ml </h3>  
+  <h3> $16.00 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+  </div>
+ 
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/47312/2DF_200.jpg" height="100" width="100">
+<h3> Vaseline Hair Tonic 100mL </h3>  
+  <h3> $6.49 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/116096/2DF_200.jpg" height="100" width="100">
+  <h3> Fusion Cough Lung Tonic 60 Vegetarian Capsules  </h3>  
+  <h3> $39.49 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/116128/2DF_200.jpg" height="100" width="100">
+  <h3> Fusion Liver Tonic 30 Tablets </h3>  
+  <h3> $23.49 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/69782/ADD4_200.jpg" height="100" width="100">
+  <h3> Cenovis Echinacea, Garlic, Zinc & Vitamin C for Immune Support 180 Tablets Exclusive Size </h3>  
+  <h3> $26.99 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/99449/3DF_200.jpg" height="100" width="100">
+  <h3> Hydralyte Electrolyte Effervescent Multi-Flavour 60 Tablets Exclusive Size </h3>  
+  <h3> $19.99 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/72907/3DF_200.jpg" height="100" width="100">
+  <h3> Elevit Pregnancy Multivitamin Tablets 100 Pack (100 Days) </h3>  
+  <h3> $69.99 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/67491/2DF_200.jpg" height="100" width="100">
+  <h3> Swisse Ultiboost Calcium + Vitamin D 150 Tablets </h3>  
+  <h3> $12.99 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/64197/3DF_200.jpg" height="100" width="100">
+  <h3> Centrum Advance 50+ 100 Tablets </h3>  
+  <h3> $11.74 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/41147/F2D_200.jpg" height="100" width="100">
+  <h3> Panamax 500mg 100 Tablets </h3>  
+  <h3> $2.99 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/31052/2DF_200.jpg" height="100" width="100">
+  <h3> Nurofen Ibuprofen Pain Relief Tablets 200mg 96 Pack </h3>  
+  <h3> $15.99 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/68225/3DF_200.jpg" height="100" width="100">
+  <h3> Panadol Children 5-12 Years Suspension Fever & Pain Relief Strawberry Flavour 200mL </h3>  
+  <h3> $21.99 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/115311/F2D_200.jpg" height="100" width="100">
+  <h3> Hot Hands Cura Heat Neck And Shoulder Pain Patch 1 Pack </h3>  
+  <h3> $2.99 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/90759/F2D_200.jpg" height="100" width="100">
+  <h3>  ICE Cold Patches 4 Pack </h3>  
+  <h3> $12.99 </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+  <div class="fan">
+  <img src="https://static.chemistwarehouse.com.au/ams/media/pi/98278/F2D_200.jpg" height="100" width="100">
+  <h3> Bodichek First Aid Kit 75 Pieces  </h3>  
+  <h3> $17.99  </h3>
+  <button>     Buy    </button>
+  <button>   Add to Cart    </button>
+
+
+  </div>
+</div>
+
+
+
+
+
+
+
+</body>
+</html>
+#crow{
+    background-image: url(https://static.chemistwarehouse.com.au/ams/media/pi/68225/3DF_800.jpg);
+    height:800px;
+    width: 100%;
+    animation-name: yup;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+}
+@keyframes yup{
+    0%{background-image: url(https://static.chemistwarehouse.com.au/ams/media/pi/68225/3DF_800.jpg); background-size: cover;}
+    20%{background-image: url(https://static.chemistwarehouse.com.au/ams/media/pi/6748/3DF_800.jpg); background-size: cover;}
+    40%{background-image: url(https://www.thetonictree.com.au/wp-content/uploads/Blackmores-Fish-Oil-1000-200c.jpg); background-size: cover;}
+    60%{background-image: url(data:image/jpeg;base64,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); background-size: cover;}
+    80%{background-image: url(https://m.media-amazon.com/images/I/61aGorc9opS.jpg); background-size: cover;}
+    100%{background-image: url(https://static.chemistwarehouse.com.au/ams/media/pi/69667/2DF_800.jpg); background-size: cover;}
+}
+#rap{
+    height: 800px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 70px;
+    grid-column-gap: 70px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
