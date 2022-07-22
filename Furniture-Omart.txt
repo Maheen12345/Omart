@@ -8,6 +8,38 @@
         background-color:white;
         color:black;
       }
+      #shop{
+    background-image: url(https://www.thespruce.com/thmb/KUpUkVPGdrySHTlPe5AHT0h08kk=/3360x1890/smart/filters:no_upscalesigns-to-replace-your-couch-4165258-hero-5266fa7b788c41f6a02f24224a5de29b.jpg);
+    height:800px;
+    width: 100%;
+    animation-name: store;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+}
+@keyframes store{
+    0%{background-image: url(https://www.thespruce.com/thmb/KUpUkVPGdrySHTlPe5AHT0h08kk=/3360x1890/smart/filters:no_upscalesigns-to-replace-your-couch-4165258-hero-5266fa7b788c41f6a02f24224a5de29b.jpg); background-size: cover;}
+20%{background-image: url(https://www.iconbydesign.com.au/assets/full/OS1004-BN.jpg?20210318031945); background-size: cover;}
+    40%{background-image: url(https://cdn.shopify.com/s/files/1/1461/0984/products/aarnio_originals_ballchair_grey11_1200x.png?v=1619786895); background-size: cover;}
+    60%{background-image: url(https://www.fantasticfurniture.com.au/medias/TONBEDQNNOOOACADUB-PD-5-CONTAINER-original-FantasticFurniture-WF-Product-Detail?context=bWFzdGVyfGltYWdlc3w4MjU5MHxpbWFnZS9qcGVnfGg2Yy9oMjIvOTQ1MzIxMzk0MTc5MC9UT05CRURRTk5PT09BQ0FEVUJfUERfNV9DT05UQUlORVJfb3JpZ2luYWxfRmFudGFzdGljRnVybml0dXJlLVdGX1Byb2R1Y3QtRGV0YWlsfDg2MTYyN2E1NjFkMWM3Nzg2YWJkZDFlODEzOWQ3YzQyYzhhYTcxODM4MjBjNzVjYjhlZDAzNTc2N2JjMDE2ZGE); background-size: cover;}
+    80%{background-image: url(https://i.ebayimg.com/images/g/~QQAAOSwh6VbioXP/s-l500.jpg); background-size: cover;}
+    100%{background-image: url(https://media.nisbets.com/asset/core/prodimage/large_new/ce150_4.jpg); background-size: cover;}
+}
+
+
+#rap{
+    height: 800px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 70px;
+    grid-column-gap: 70px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
       </style>
       </head>
 <body>
@@ -181,35 +213,3 @@
 </body>
 </html>
 
-#shop{
-    background-image: url(https://www.thespruce.com/thmb/KUpUkVPGdrySHTlPe5AHT0h08kk=/3360x1890/smart/filters:no_upscalesigns-to-replace-your-couch-4165258-hero-5266fa7b788c41f6a02f24224a5de29b.jpg);
-    height:800px;
-    width: 100%;
-    animation-name: store;
-    animation-duration: 40s;
-    animation-iteration-count: infinite;
-}
-@keyframes store{
-    0%{background-image: url(https://www.thespruce.com/thmb/KUpUkVPGdrySHTlPe5AHT0h08kk=/3360x1890/smart/filters:no_upscalesigns-to-replace-your-couch-4165258-hero-5266fa7b788c41f6a02f24224a5de29b.jpg); background-size: cover;}
-20%{background-image: url(https://www.iconbydesign.com.au/assets/full/OS1004-BN.jpg?20210318031945); background-size: cover;}
-    40%{background-image: url(https://cdn.shopify.com/s/files/1/1461/0984/products/aarnio_originals_ballchair_grey11_1200x.png?v=1619786895); background-size: cover;}
-    60%{background-image: url(https://www.fantasticfurniture.com.au/medias/TONBEDQNNOOOACADUB-PD-5-CONTAINER-original-FantasticFurniture-WF-Product-Detail?context=bWFzdGVyfGltYWdlc3w4MjU5MHxpbWFnZS9qcGVnfGg2Yy9oMjIvOTQ1MzIxMzk0MTc5MC9UT05CRURRTk5PT09BQ0FEVUJfUERfNV9DT05UQUlORVJfb3JpZ2luYWxfRmFudGFzdGljRnVybml0dXJlLVdGX1Byb2R1Y3QtRGV0YWlsfDg2MTYyN2E1NjFkMWM3Nzg2YWJkZDFlODEzOWQ3YzQyYzhhYTcxODM4MjBjNzVjYjhlZDAzNTc2N2JjMDE2ZGE); background-size: cover;}
-    80%{background-image: url(https://i.ebayimg.com/images/g/~QQAAOSwh6VbioXP/s-l500.jpg); background-size: cover;}
-    100%{background-image: url(https://media.nisbets.com/asset/core/prodimage/large_new/ce150_4.jpg); background-size: cover;}
-}
-
-
-#rap{
-    height: 800px;
-    width: 100%;
-    display: grid;
-    grid-template-columns: auto auto auto;
-    grid-row-gap: 70px;
-    grid-column-gap: 70px;
-}
-
-button{
-    background-color: red;
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
